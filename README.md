@@ -16,3 +16,20 @@ Vector API는 CPU의 SIMD(Vector) 명령어를 활용하여 **연산 성능을 �
 ```bash
 javac VectorExample.java  
 java VectorExample
+
+📜 참고 자료
+	•	Java 공식 문서
+	•	GitHub 가이드
+
+이렇게 하면 저장소의 첫 화면이 깔끔하게 정리됩니다.  
+
+---
+
+### 2. **GitHub에서 Repository Description 추가하기**  
+- **Settings → General** 에서 **Description**을 추가하면 첫 화면에서 프로젝트 요약을 볼 수 있습니다.  
+- 예: `"Java 22 Vector API를 활용한 성능 최적화"`  
+
+---
+
+### 3. **파일 정리 및 코드 추가**  
+보고서 외에도 `Vector API` 관련 **샘플 코드** 파일(`.java`)을 추가하면 더 완성도 있는 저장소가 됩니다. 
